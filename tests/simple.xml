@@ -1,0 +1,11 @@
+<locatingRules xmlns="http://thaiopensource.com/ns/locating-rules/1.0">
+  <typeIdProcessingInstruction target="my-doctype"/>
+  <doctypePublicId publicId="-//OASIS//DTD DocBook XML V4.3//EN" typeId="DocBook"/>
+  <typeIdBase append=".rnc"/>
+
+  <documentElement prefix="" localName="article" typeId="DocBook"/>
+  <documentElement prefix="" localName="book" typeId="DocBook"/>
+  <documentElement prefix="" localName="webpage" typeId="Website"/>
+
+  <typeId id="DocBook" uri="rnc/docbook.rnc"/>
+</locatingRules>

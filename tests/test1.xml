@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<?my-doctype None?>
+<!-- comment -->
+<!DOCTYPE t:test PUBLIC "-//Test//DTD Test//EN" "test.dtd">
+<t:test xmlns:t="http://example.com/xmlns/test"/>
